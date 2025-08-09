@@ -32,8 +32,6 @@ How to Run
 Save the script as calculus_solver.py and run it:
 
 bash
-Copy
-Edit
 python calculus_solver.py
 Example Inputs
 Integration
@@ -89,5 +87,6 @@ Limitations
 Only supports single-variable expressions
 
 No equation solving or multivariable calculus
+
 
 Evaluation is numerical (floating point) where applicable
